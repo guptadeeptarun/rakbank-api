@@ -58,7 +58,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ### Assumptions:
 
-- Spring security is bypassed for the assignment. 
+- Spring security is bypassed for the assessment. 
+- CORS settings are allowed for all only for assessment purpose.
 - Password (hashed) is sent in responses of API only for assessment purpose. 
 - Create user API to only allow unique email address signup. 
 - GetAll user API response is paginated. Request parameter 'page' is optional and set to 1 when page is not specified. Page size is default set to 10. 
