@@ -55,6 +55,10 @@ This property is externalised since localhost is not reachable from inside the c
 ### Access Swagger
 http://localhost:8080/swagger-ui/index.html
 
+### Live Demo
+For a Live Demo, you can access the application on below URL. Please note in case you are behind a firewall, this may not work.
+
+http://193.123.75.224:8080/swagger-ui/index.html
 
 ### Assumptions:
 
